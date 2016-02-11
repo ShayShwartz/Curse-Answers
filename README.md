@@ -1,2 +1,5 @@
 # Curse-Answers
-הוספתי ReadMe.txt עבור כל פרק והשתדלתי להוסיף MAIN עם Testing מובן וקריא ככל האפשר, אשמח לקבל ביקורת והערות.  בדיקה מהנה!
+I added ReadMe.txt file to each chapter. I added a Main file with testing to make your testing easier, hope it's helpfull.
+
+I would be glad to get a feedback.
+thanks in advanced!
