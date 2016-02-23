@@ -1,0 +1,1 @@
+Each folder contains info.txt file that explain the solution.

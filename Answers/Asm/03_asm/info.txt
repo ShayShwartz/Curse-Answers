@@ -1,0 +1,2 @@
+הופך את סדר הבתים בEAX, לדוגמה :
+0xAABBCCDD => 0xDDCCBBAA
